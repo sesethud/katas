@@ -1,0 +1,2 @@
+# katas
+Code War Solutions
